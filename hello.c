@@ -27,7 +27,7 @@ unsigned char i;
 
 
 
-const unsigned char text[]="Hello World!"; // zero terminated c string
+const unsigned char text[]="FABIO AKITA!"; // zero terminated c string
 
 const unsigned char palette[]={
 BLACK, DK_GY, LT_GY, WHITE,
